@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Be1001 {
+public class Bee1001 {
 	public static void main (String[] args) {
 	Scanner ler = new Scanner(System.in);
 	
