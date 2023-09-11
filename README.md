@@ -1,3 +1,3 @@
 # Beecrowd
-solved with java.
+solved with java and javascript.
 https://www.beecrowd.com.br/judge/en
