@@ -20,7 +20,6 @@ let Aq = Math.pow(A, 2);
 let BC = B + C;
 let BCq = Math.pow(B, 2) + Math.pow(C, 2);
 
-
 if (A >= BC) {
   console.log("NAO FORMA TRIANGULO");
 } else {
