@@ -1,5 +1,5 @@
 # Beecrowd
 https://www.beecrowd.com.br/judge/en
 
-# My work
+# Profile
 https://judge.beecrowd.com/en/profile/840540
