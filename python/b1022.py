@@ -21,4 +21,3 @@ for i in range(N):
   gcd = math.gcd(resN, resD);
 
   print(f"{resN}/{resD} = {int(resN / gcd)}/{int(resD / gcd)}");
-
