@@ -1,14 +1,14 @@
 def counting_sort(lista, maior):
-  maior = maior + 1;
-  cc = [0] * maior;
+  cc = [0] * maior + 1;
+  k = 0;
+
   for i in lista:
     cc[i] += 1;
-  j = 0;
-  for i in range(maior):
-    for k in range(cc[i]):
-      lista[j] = i;
-      j += 1;
-  return lista;
+
+  for i in range(maior + 1):
+    for j in range(cc[i]):
+      lista[k] = i;
+      k += 1;
 
 nc = int(input());
 
