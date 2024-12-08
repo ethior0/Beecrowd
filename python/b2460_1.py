@@ -1,8 +1,3 @@
-# 10 9 6 3
-# 1 1 1 1
-# 1 1 1 0
-# 10 9 6
-
 N = int(input());
 fila = input().split();
 filaSet = set(map(int, fila));
