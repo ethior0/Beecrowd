@@ -1,3 +1,5 @@
+# Ex incompleto
+
 # se o NUM de ovelhas for:
 # IMPAR -> i + 1 (vai pro proximo)
 # PAR -> i - 1 (vai pro anterior)

@@ -1,4 +1,4 @@
-# Tentativa errada, porém foi uma nice try
+# Tentativa errada, porém nice try
 
 # caso haja um caminho ate a cidade B,  
 # o algoritmo sempre optará pela ferrovia
