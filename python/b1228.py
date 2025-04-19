@@ -26,8 +26,6 @@ while True:
     for i, carro in enumerate(fim):
       aux[carro] = i;
     
-    print(aux);
     print(insertion_sort(ini));
-    print(ini);
   except EOFError:
     break;
