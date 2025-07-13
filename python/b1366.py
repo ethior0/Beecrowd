@@ -4,14 +4,11 @@ while True:
   n = int(input());
   if n == 0: break;
   
-  arr = [];
-  
   res = 0;
   for _ in range(n):
     c, v = map(int, input().split());
-    if v >= 2:
-      arr.append([c, v]);
-
+    if v % 2 != 0:
+      v -= 1;
+    res += v;
   
-  print(arr);
-  print(res);
+  print(res // 4);
